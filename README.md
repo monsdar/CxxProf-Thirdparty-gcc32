@@ -1,4 +1,4 @@
-CxxProf-Thirdparty-gcc
+CxxProf-Thirdparty-gcc32
 =========================
 
 Main project: [CxxProf](https://github.com/monsdar/CxxProf)
